@@ -1,0 +1,3 @@
+[submodule "landmarks-ds"]
+	path = landmarks-ds
+	url = https://github.com/Landmarks-Tech/landmarks-ds.git

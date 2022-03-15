@@ -1,0 +1,109 @@
+[
+  {
+    "properties": {
+      "steps": 7,
+      "hue": {
+        "start": 205,
+        "end": 220,
+        "curve": "easeInOutQuad"
+      },
+      "saturation": {
+        "start": 0.05,
+        "end": 0.15,
+        "rate": 0.5,
+        "curve": "easeInOutSine"
+      },
+      "brightness": {
+        "start": 1,
+        "end": 0.2,
+        "curve": "easeInOutQuad"
+      }
+    },
+    "options": {
+      "minorSteps": [],
+      "name": "Neutral",
+      "rotation": "clockwise"
+    }
+  },
+  {
+    "properties": {
+      "steps": 7,
+      "hue": {
+        "start": 101,
+        "end": 101,
+        "curve": "easeInOutQuad"
+      },
+      "saturation": {
+        "start": 0.2,
+        "end": 0.6,
+        "rate": 1,
+        "curve": "easeInOutQuad"
+      },
+      "brightness": {
+        "start": 1,
+        "end": 0.2,
+        "curve": "easeInOutQuad"
+      }
+    },
+    "options": {
+      "minorSteps": [],
+      "name": "Primary",
+      "lockHex": "#38B000",
+      "rotation": "clockwise"
+    }
+  },
+  {
+    "properties": {
+      "steps": 7,
+      "hue": {
+        "start": 204,
+        "end": 204,
+        "curve": "easeInOutQuad"
+      },
+      "saturation": {
+        "start": 0.15,
+        "end": 0.6,
+        "rate": 1,
+        "curve": "easeInOutQuad"
+      },
+      "brightness": {
+        "start": 1,
+        "end": 0.2,
+        "curve": "easeInOutQuad"
+      }
+    },
+    "options": {
+      "minorSteps": [],
+      "name": "Secondary",
+      "lockHex": "#0E86D4",
+      "rotation": "clockwise"
+    }
+  },
+  {
+    "properties": {
+      "steps": 7,
+      "hue": {
+        "start": 152,
+        "end": 152,
+        "curve": "easeInOutQuad"
+      },
+      "saturation": {
+        "start": 0.05,
+        "end": 0.33,
+        "rate": 1,
+        "curve": "easeInOutQuad"
+      },
+      "brightness": {
+        "start": 1,
+        "end": 0.2,
+        "curve": "easeInOutQuad"
+      }
+    },
+    "options": {
+      "minorSteps": [],
+      "name": "Optional",
+      "lockHex": "#4A6F5E",
+      "rotation": "clockwise"
+    }
+  }
+]

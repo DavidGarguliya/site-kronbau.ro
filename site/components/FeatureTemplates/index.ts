@@ -1,0 +1,1 @@
+export { FeatureImageWithText } from './ImageWithText/FeatureImageWithText'
